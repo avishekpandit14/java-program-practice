@@ -26,6 +26,8 @@ public class condition{
         // float area=3.14f+(radius*radius);
         // System.out.println("Area"+area);
 
+        //simple interest program
+
         // int p=sc.nextInt();
         // int r=sc.nextInt();
         // int t=sc.nextInt();
@@ -68,5 +70,6 @@ public class condition{
 
     }
     
+
 
 
