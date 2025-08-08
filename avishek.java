@@ -59,6 +59,24 @@ public class condition{
       // }
 
 
+
+
+
+        
+
+   // public void calculateInterest() {
+   //      double principal = 1000;
+   //      double time = 2;
+   //      double rate = 5;
+   //      double si = (principal * time * rate) / 100;
+   //      System.out.println("Simple Interest: " + si);
+   //  }
+
+   //  public static void main(String[] args) {
+   //      SimpleInterest obj = new SimpleInterest();
+   //      obj.calculateInterest();
+   //  }
+
       
 
     }
@@ -70,6 +88,7 @@ public class condition{
 
     }
     
+
 
 
 
